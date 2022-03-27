@@ -37,7 +37,7 @@
 @media all and (max-width:  768px) {
 	.nav-wrapper {
 		overflow: auto;
-		word-spacing: nowrap;
+		whtie-spacing: nowrap;
 	}
 	.logo, .search-wrapper, .topnav {
 		display: inline-block;
