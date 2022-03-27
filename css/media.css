@@ -35,7 +35,7 @@
 }
 
 @media all and (max-width:  768px) {
-	.nax-wrapper {
+	.nav-wrapper {
 		overflow: auto;
 		word-spacing: nowrap;
 	}
